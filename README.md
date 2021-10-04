@@ -1,6 +1,6 @@
 # C-Thread-Count
 
-Console C++ program that demonstrates concurrency using multithreading.
+C++ code that demonstrates concurrency using multithreading.
 
 One thread counts up to 20. Once thread one reaches 20, then a second thread counts down to 0. 
 
