@@ -1,4 +1,4 @@
-# C-Thread-Count
+# C-Thread-Count 📀
 
 C++ code that demonstrates concurrency using multithreading.
 
